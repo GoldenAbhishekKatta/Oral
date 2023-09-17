@@ -1,4 +1,4 @@
-namespace Oral.BackEnd
+namespace Oral.WebApi
 {
     public class WeatherForecast
     {

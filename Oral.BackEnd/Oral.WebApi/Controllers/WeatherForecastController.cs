@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Oral.BackEnd.Controllers
+namespace Oral.WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
